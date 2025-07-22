@@ -52,6 +52,9 @@
 | 📱 **Cadastro de Produtos** | Front em React consumindo API REST com json-server. |
 
 ---
+<p align="center">Feito com 💜 por Duda • Última atualização: {{DATA}}</p>
+
+---
 
 ### 📫 Vamos nos conectar?
 
