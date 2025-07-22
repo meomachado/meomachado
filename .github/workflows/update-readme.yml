@@ -2,7 +2,7 @@ name: Atualiza README com data
 
 on:
   schedule:
-    - cron: "0 3 * * *"  # Todos os dias às 03:00 UTC (00:00 no Brasil)
+    - cron: "0 3 * * *"
   workflow_dispatch:
 
 jobs:
@@ -16,7 +16,7 @@ jobs:
       - name: Atualizar data no README
         run: |
           data=$(date +"%d/%m/%Y")
-          sed -i "s/{{DATA}}/${data}/g" README.md
+          sed -i "s#{{DATA}}#${data}#g" README.md
 
       - name: Fazer commit e push
         run: |
