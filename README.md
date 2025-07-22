@@ -56,8 +56,8 @@
 ### 📫 Vamos nos conectar?
 
 [![Instagram](https://img.shields.io/badge/@meomachado-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/meomachado)
-[![LinkedIn](https://img.shields.io/badge/Maria%20Eduarda%20Machado-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seulinkedin) <!-- troque por seu linkedin se tiver -->
-[![Gmail](https://img.shields.io/badge/machado.mariaeduarda@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:machado.mariaeduarda@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Maria%20Eduarda%20Machado-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-eduarda-oliveira-machado-8068211a2) 
+[![Gmail](https://img.shields.io/badge/machado.mariaeduarda@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omariaeduarda411@gmail.com)
 
 ---
 
