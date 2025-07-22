@@ -51,10 +51,9 @@
 | 💡 **PWM com PIC** | Controle de brilho de LED com botão em C usando microcontrolador PIC. |
 | 📱 **Cadastro de Produtos** | Front em React consumindo API REST com json-server. |
 
----
-<p align="center">Feito com 💜 por Duda • Última atualização: {{DATA}} </p>
 
 ---
+
 
 ### 📫 Vamos nos conectar?
 
@@ -62,6 +61,4 @@
 [![LinkedIn](https://img.shields.io/badge/Maria%20Eduarda%20Machado-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-eduarda-oliveira-machado-8068211a2) 
 [![Gmail](https://img.shields.io/badge/machado.mariaeduarda@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omariaeduarda411@gmail.com)
 
----
 
-<p align="center">Feito com 💜 por Duda • Última atualização: {{DATA}}</p>
